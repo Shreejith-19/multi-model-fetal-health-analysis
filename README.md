@@ -49,7 +49,7 @@ pip install -r requirements.txt
 </pre>
 ## How to Run
 <b> 1. Clone the repository</b>
-<pre>git clone https://github.com/yourusername/fetal-health-classification.git
+<pre>git clone https://github.com/Shreejith-19/multi-model-fetal-health-analysis.git
 </pre>
 <b> 2. cd into the project directory</b>
 <pre>cd fetal-health-classification
