@@ -44,9 +44,9 @@
 
 ## Requirements
 Ensure you have Python ≥ 3.8 and Jupyter Notebook installed, then install the dependencies:
-<pre>
-```bash pip install -r requirements.txt```
-</pre>
+```bash
+pip install -r requirements.txt
+```
 ## How to Run
 <b> 1. Clone the repository</b>
 <pre>git clone https://github.com/Shreejith-19/multi-model-fetal-health-analysis.git
@@ -63,6 +63,7 @@ Ensure you have Python ≥ 3.8 and Jupyter Notebook installed, then install the 
 <li>Model performance reports</li>
 <li>ROC-AUC scores for all models</li>
 </ul>
+
 
 
 
