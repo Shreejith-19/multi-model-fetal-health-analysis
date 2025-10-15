@@ -49,10 +49,13 @@ pip install -r requirements.txt
 ```
 ## How to Run
 <b> 1. Clone the repository</b>
-<pre>git clone https://github.com/Shreejith-19/multi-model-fetal-health-analysis.git
-</pre>
+```bash
+git clone https://github.com/Shreejith-19/multi-model-fetal-health-analysis.git
+```
 <b> 2. cd into the project directory</b>
-<pre>cd multi-model-fetal-health-analysis
+```bash
+cd multi-model-fetal-health-analysis
+```
 </pre>
 <b>3. Open index.ipynb and run all cells</b>
 
@@ -63,6 +66,7 @@ pip install -r requirements.txt
 <li>Model performance reports</li>
 <li>ROC-AUC scores for all models</li>
 </ul>
+
 
 
 
