@@ -45,7 +45,7 @@
 ## Requirements
 Ensure you have Python ≥ 3.8 and Jupyter Notebook installed, then install the dependencies:
 <pre>
-'''bash pip install -r requirements.txt'''
+```bash pip install -r requirements.txt```
 </pre>
 ## How to Run
 <b> 1. Clone the repository</b>
@@ -63,6 +63,7 @@ Ensure you have Python ≥ 3.8 and Jupyter Notebook installed, then install the 
 <li>Model performance reports</li>
 <li>ROC-AUC scores for all models</li>
 </ul>
+
 
 
 
